@@ -4,4 +4,5 @@ test repo for branches
 ADDED THIS LINE IN MAIN
 
 
-HOTFIX FROM MAIN
+
+ADAPTED FROM foobar2 branch
